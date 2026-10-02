@@ -398,7 +398,6 @@ Image + Pred Mask
 </tr>
 <tr>
 <td align="center"><b>Scratch</b></td>
-<td></td>
 </tr>
 <tr>
 <td><img src="results/anomaly_map/scratch/000.png" width="500"></td>
