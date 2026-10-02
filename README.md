@@ -399,10 +399,12 @@ Image + Pred Mask
 </tr>
 
 <tr>
-<td align="center"><b>Scratch</b></td>
+<td colspan="2" align="center"><b>Scratch</b></td>
 </tr>
 <tr>
-<td><img src="results/anomaly_map/scratch/000.png" width="500"></td>
+<td colspan="2" align="center">
+<img src="results/anomaly_map/scratch/000.png" width="500">
+</td>
 </tr>
 </table>
 
