@@ -388,6 +388,7 @@ Image + Pred Mask
 <td><img src="results/anomaly_map/good/000.png" width="500"></td>
 <td><img src="results/anomaly_map/bent/000.png" width="500"></td>
 </tr>
+
 <tr>
 <td align="center"><b>Color</b></td>
 <td align="center"><b>Flip</b></td>
@@ -396,6 +397,7 @@ Image + Pred Mask
 <td><img src="results/anomaly_map/color/000.png" width="500"></td>
 <td><img src="results/anomaly_map/flip/000.png" width="500"></td>
 </tr>
+
 <tr>
 <td align="center"><b>Scratch</b></td>
 </tr>
