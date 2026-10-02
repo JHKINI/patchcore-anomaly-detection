@@ -103,6 +103,13 @@ metal_nut/
 │  └─ scratch/
 └─ ground_truth/
 ```
+| Type | Description |
+|---|---|
+| **Good** | 정상 이미지 |
+| **Bent** | 너트의 휘어짐 또는 변형 |
+| **Color** | 정상과 다른 색상·표면 특성 |
+| **Flip** | 너트가 뒤집혀 정상과 다른 면이 나타나는 구조적 이상 |
+| **Scratch** | 너트 표면의 긁힘 이상 |
 
 ### 학습 방식
 
